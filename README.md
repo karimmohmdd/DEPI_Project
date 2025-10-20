@@ -1,4 +1,4 @@
-Heart Disease Risk Analysis & Prediction
+# Heart Disease Risk Analysis & Prediction
 
 This project aims to analyze the impact of medical and lifestyle factors on heart disease risk, and to build a predictive model that can estimate the likelihood of developing heart disease based on individual health indicators.
 
