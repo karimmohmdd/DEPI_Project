@@ -2,6 +2,9 @@
 
 This project aims to analyze the impact of medical and lifestyle factors on the risk of depressive disorder and other mental health issues, and to build a predictive model that can estimate the likelihood of developing depression based on individual behavioral and health indicators.
 
+However, it’s important to acknowledge that mental health is influenced by a wide range of psychological, emotional, and social factors that extend far beyond the measurable lifestyle features included in this dataset.
+Therefore, while the model may not achieve very high accuracy, its predictions still highlight significant patterns and useful indicators that can contribute to understanding mental health risks and guiding further clinical evaluation
+
 ---
 
 ## 🔍 Project Overview
